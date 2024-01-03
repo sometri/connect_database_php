@@ -1,0 +1,2 @@
+1. Using PDO with SQL Server Driver for PHP:
+First, you need to ensure that you have the SQL Server Driver for PHP installed. Then you can use the following PHP code to connect to a Microsoft SQL Server database:
